@@ -43,3 +43,19 @@ console.log(typeof anotherId);
 // referance (non primitive)
 
 // array, objects, functions
+
+
+
+
+let myYoutubeName = "sumit developer"
+let another = myYoutubeName;
+another = "chaiaucode"
+console.log(myYoutubeName);
+console.log(another);
+
+let user = {
+    email: "sk123@gmail.com",
+    upi: "a@yusui",
+    name: "sumit"
+
+}
