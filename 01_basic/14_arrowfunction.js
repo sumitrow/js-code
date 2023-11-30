@@ -32,3 +32,8 @@ const addTow = (num1, num2) =>  ({username: "sujjit"})
 console.log(addTow(24,12));
 
 
+function chai (){
+    console.log(`DB connected`);
+
+}
+chai()
